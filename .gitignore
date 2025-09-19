@@ -1,0 +1,7 @@
+# Environment variables
+# Contains sensitive data like API keys and passwords. Do not commit.
+.env
+
+# Python virtual environment
+# Can be recreated from a requirements.txt file and contains machine-specific files.
+my-env/
